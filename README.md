@@ -205,5 +205,4 @@ react-native run-android
 * `imageFront` and `imageBack` props are renamed to `cardImageFront` and `cardImageBack` respectively,
 * Android `monospace` fonts doesn't looks as nice as iOS `Courier`, bundle custom fonts into your app and override the default using `cardFontFamily` instead
 
-# Production App using react-native-credit-card-input
-* Grain.com.sg ([iOS](https://grain.com.sg/mobile/ios/download), [Android](https://grain.com.sg/mobile/android/download)) – Gourmet food delivery in Singapore
+
